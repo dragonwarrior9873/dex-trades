@@ -1,0 +1,13 @@
+/root/pooh/dextrades/target/release/deps/libthiserror_impl-b1587907c4f07646.so: /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.50/src/lib.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.50/src/ast.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.50/src/attr.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.50/src/expand.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.50/src/fmt.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.50/src/generics.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.50/src/prop.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.50/src/span.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.50/src/valid.rs
+
+/root/pooh/dextrades/target/release/deps/thiserror_impl-b1587907c4f07646.d: /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.50/src/lib.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.50/src/ast.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.50/src/attr.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.50/src/expand.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.50/src/fmt.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.50/src/generics.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.50/src/prop.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.50/src/span.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.50/src/valid.rs
+
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.50/src/lib.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.50/src/ast.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.50/src/attr.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.50/src/expand.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.50/src/fmt.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.50/src/generics.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.50/src/prop.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.50/src/span.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.50/src/valid.rs:
